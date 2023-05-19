@@ -1,5 +1,5 @@
 <center>
-<h1> 🏚️Stock Project</h1>
+<h1>Stock Project</h1>
 </center>
 <center>
 <a href="Java url">
@@ -66,12 +66,5 @@ This endpoint makes a call to method in Service class which is connected to data
 
 This endpoint makes a call to method in Service class which is connected to database. In database we delete through API.
 
----
 
----
 
-## 📝Project Summary
-
-I have created Stock project using data source. In this project user  Can delete , update , get ,  can find. etc...
-
-![Alt text](https://media.tenor.com/Ra5kgH_k8yMAAAAj/thank-you-thank-you-heart.gif)
